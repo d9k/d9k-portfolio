@@ -71,13 +71,13 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 ## Любимые технологии:
 
 **Frontend**:
-Vue 3, Svelte, Nuxt, HTML, JS, TypeScript, CSS
+[Vue](https://vuejs.org), [Svelte](https://svelte.dev), [Nuxt](https://nuxt.com), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Backend и CI**:
-NodeJS, NestJS, Docker, администрировние Linux, bash, Ansible
+[NodeJS](https://nodejs.org), [NestJS](https://nestjs.com), [Docker](https://www.docker.com), администрирование Linux, bash, Ansible
 
 **Хранение данных и аналитика**:
-MySQL, PostgreSQL, MariaDB, PrestoDB, Trino, Apache Superset, Tarantool
+[MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [MariaDB](https://mariadb.org), [PrestoDB](https://prestodb.io), [Trino](https://trino.io), [Apache Superset](https://superset.apache.org), [Tarantool](https://tarantool.io)
 
 **Разработка игр**:
 Phaser.js, Godot
