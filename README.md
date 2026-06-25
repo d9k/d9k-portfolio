@@ -74,19 +74,19 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 [Vue](https://vuejs.org), [Svelte](https://svelte.dev), [Nuxt](https://nuxt.com), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Backend и CI**:
-[NodeJS](https://nodejs.org), [NestJS](https://nestjs.com), [Docker](https://www.docker.com), администрирование Linux, bash, Ansible
+[NodeJS](https://nodejs.org), [NestJS](https://nestjs.com), [Docker](https://www.docker.com), администрирование [Linux](https://distrowatch.com/), [bash](https://www.gnu.org/software/bash/), [Ansible](https://www.ansible.com)
 
 **Хранение данных и аналитика**:
 [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org), [MariaDB](https://mariadb.org), [PrestoDB](https://prestodb.io), [Trino](https://trino.io), [Apache Superset](https://superset.apache.org), [Tarantool](https://tarantool.io)
 
 **Разработка игр**:
-Phaser.js, Godot
+[Phaser.js](https://phaser.io), [Godot](https://godotengine.org)
 
 **AI, LLM**:
-Kat Coder, DeepSeek
+[Kat Coder](https://kwaipilot.github.io/KAT-Coder/), [DeepSeek](https://deepseek.com)
 
 **Другие любимые технологии и стандарты**:
-Markdown, Storybook, Linux
+[Markdown](https://daringfireball.net/projects/markdown/syntax), [Storybook](https://storybook.js.org)
 
 Рассмотрю заказы по любым другим технологиям вне этого списка, например:
 Ruby, React, PHP, Wordpress, Joomla, Drupal.
