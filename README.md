@@ -112,7 +112,7 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 [Markdown](https://daringfireball.net/projects/markdown/syntax), [Storybook](https://storybook.js.org)
 
 Рассмотрю заказы по любым другим технологиям вне этого списка, например:
-[Ruby](https://www.ruby-lang.org), [React](https://react.dev), [PHP](https://www.php.net), [Wordpress](https://wordpress.org), [Joomla](https://www.joomla.org), [Drupal](https://www.drupal.org).
+[Ruby](https://www.ruby-lang.org), [React](https://react.dev), [PHP](https://www.php.net), [Joomla](https://www.joomla.org), [Wordpress](https://wordpress.org), [Drupal](https://www.drupal.org), [Concrete5](https://www.concretecms.com).
 
 ## Любимые предметные области
 
