@@ -172,28 +172,30 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 ### Редактор обучающих схем и анимаций / ГиперМетод, 2021
 
-- https://hypermethod.ru/
+- https://www.ispring.ru/eauthor
 - Редактор обучающих SVG-анимаций на Vue.
 
-### Платформа eLearning 5g / ГиперМетод, 2021
+### Платформа eLearning 5G / ГиперМетод, 2021
 
 - https://5g.elearn.ru/
-- eLearning Server 5g: Vue + Vuex, PHP Zend - конструктор учебных курсов
+- Vue + Vuex, PHP Zend
+- Конструктор учебных курсов
 
-### Платформа eLearning 4g с онлайн-экзаменами / ГиперМетод, 2020
+### Онлайн-экзамены для платформы eLearning 4G / ГиперМетод, 2020
 
 - https://play.google.com/store/apps/details?id=com.hypermethod.mlplayer2
-- Доработка платформы на PHP, Zend, jQuery
-- Модуль онлайн-экзамена: запись камеры и экрана.
-- Расширение chrome, Node.js сервер для WebRTC (Kurento)
+- Доработка платформы на PHP Zend, jQuery
+- Модуль онлайн-экзамена: запись камеры и экрана экзаменуемых.
+- Расширение Chrome, Node.js сервер для WebRTC (Kurento)
 
 ### Платформа eClass / ГиперМетод, 2020
 
 - https://eclass.elearn.ru/
-- React + Redux, PHP Yii 2 - система проведения онлайн-видеоуроков (аналог Zoom)
+- Система проведения онлайн-видеоуроков (аналог Zoom)
+- React + Redux, PHP Yii 2
 - \+ Вёрстка лендинга
 
-### Базы данных автозапчастей / СофтПарт, 2019
+### База данных автозапчастей / СофтПарт, 2019
 
 - https://levam.net/
 - Tarantool (Lua) - высокопроизводительная БД в оперативной памяти
