@@ -139,12 +139,26 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 - Frontend: React, TypeScript, SWR, Jotai - фронтенд.
 - Синхронизация данных пользователей, документов и оргструктуры из 1С через 1C OData.
 
+### OpenSource Citation Supabase Demo / 2023
+
+- https://github.com/d9k/citations-supabase-demo
+- Учебный проект
+- React 18, PostgreSQL (Supabase), React-Query, Mantine
+- Deno (Ultra framework), CSS-in-JS (fela), Storybook (on Vite), SSR
+- Архитектура FSD
+
 ### JetSkills / Uniweb, 2023
 
 - Конструктор учебных курсов и аналитический портал
 - React, Redux Toolkit, RTK Query, Node.js, NestJS (BFF)
 - Ant.Design + RTK Query - внутренний административный портал
 - Внедрение TypeScript, настройка Webpack, Vite, ESLint
+
+### OpenSource Nuxt eShop Demo / 2024
+
+- https://github.com/d9k/nuxt-eshop-demo
+- учебный проект интернет-магазин на Nuxt
+- Nuxt 3, Vuetify 3, Vue 3, nuxt-open-fetch
 
 ### Аналитический портал / Uniweb, 2022
 
