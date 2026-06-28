@@ -139,6 +139,18 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 - Frontend: React, TypeScript, SWR, Jotai - фронтенд.
 - Синхронизация данных пользователей, документов и оргструктуры из 1С через 1C OData.
 
+### JetSkills / Uniweb, 2023
+
+- Конструктор учебных курсов и аналитический портал
+- React, Redux Toolkit, RTK Query, Node.js, NestJS (BFF)
+- Ant.Design + RTK Query - внутренний административный портал
+- Внедрение TypeScript, настройка Webpack, Vite, ESLint
+
+### Аналитический портал / Uniweb, 2022
+
+- Superset, Trino (PrestoDB)
+- аналитический портал с дашбордами и сложными SQL-запросами
+
 ### Редактор обучающих схем и анимаций / ГиперМетод, 2021
 
 Редактор обучающих SVG-анимаций на Vue.
