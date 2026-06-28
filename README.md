@@ -122,19 +122,28 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 ### Навигатор доп. образования / Inlearno, 2026
 
+- https://dopportal.ru/
 - Портал покупки билетов на обучающие мероприятия
 - Nuxt, Vue 3, легаси на Vue2
 - PHP, Docker Compose - backend
 - Опыт ускорения разработки с нейросетями на GLM 5, Kat Coder 2
 
+### OpenSource Nuxt eShop Demo / 2024
+
+- https://github.com/d9k/nuxt-eshop-demo
+- учебный проект интернет-магазин на Nuxt
+- Nuxt 3, Vuetify 3, Vue 3, nuxt-open-fetch
+
 ### Редактор блоксхем для Бизнес-чата / Devino, 2024
 
+- https://www.devinotele.com/
 - Vue, TypeScript, Pinia, VueFlow
 - Редактор скриптов разговора с условиями и переводом на оператора
 - Внедрение Storybook, перевод с Vue 2 на Vue 3
 
-### Интеграцией с 1С для системы учёта трудозатрат с / WebBee, 2024
+### Интеграцией с 1С для системы учёта трудозатрат / WebBee, 2024
 
+- https://web-bee.ru/
 - Backend: Node.JS, TypeScript, Fastify, Sequelize,  Swagger.
 - Frontend: React, TypeScript, SWR, Jotai - фронтенд.
 - Синхронизация данных пользователей, документов и оргструктуры из 1С через 1C OData.
@@ -149,47 +158,51 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 ### JetSkills / Uniweb, 2023
 
+- https://jetskills.userecho.ru/knowledge-bases/2-baza-znanij
 - Конструктор учебных курсов и аналитический портал
 - React, Redux Toolkit, RTK Query, Node.js, NestJS (BFF)
 - Ant.Design + RTK Query - внутренний административный портал
 - Внедрение TypeScript, настройка Webpack, Vite, ESLint
 
-### OpenSource Nuxt eShop Demo / 2024
-
-- https://github.com/d9k/nuxt-eshop-demo
-- учебный проект интернет-магазин на Nuxt
-- Nuxt 3, Vuetify 3, Vue 3, nuxt-open-fetch
-
 ### Аналитический портал / Uniweb, 2022
 
+- https://vk.com/uniweb
 - Superset, Trino (PrestoDB)
 - аналитический портал с дашбордами и сложными SQL-запросами
 
 ### Редактор обучающих схем и анимаций / ГиперМетод, 2021
 
-Редактор обучающих SVG-анимаций на Vue.
+- https://hypermethod.ru/
+- Редактор обучающих SVG-анимаций на Vue.
 
 ### Платформа eLearning 5g / ГиперМетод, 2021
 
+- https://5g.elearn.ru/
 - eLearning Server 5g: Vue + Vuex, PHP Zend - конструктор учебных курсов
 
 ### Платформа eLearning 4g с онлайн-экзаменами / ГиперМетод, 2020
 
+- https://play.google.com/store/apps/details?id=com.hypermethod.mlplayer2
 - Доработка платформы на PHP, Zend, jQuery
 - Модуль онлайн-экзамена: запись камеры и экрана.
 - Расширение chrome, Node.js сервер для WebRTC (Kurento)
 
 ### Платформа eClass / ГиперМетод, 2020
 
-React + Redux, PHP Yii 2 - система проведения онлайн-видеоуроков (аналог Zoom)
+- https://eclass.elearn.ru/
+- React + Redux, PHP Yii 2 - система проведения онлайн-видеоуроков (аналог Zoom)
+- + Вёрстка лендинга
+
 
 ### Базы данных автозапчастей / СофтПарт, 2019
 
+- https://levam.net/
 - Tarantool (Lua) - высокопроизводительная БД в оперативной памяти
 - Работа с гигабайтами данных автозапчастей
 
 ### Билетная система с онлайн-оплатой / ОрбитальСофт, 2018
 
+https://orbilet.ru/
 - MySQL, JS (JQuery), PHP Yii, Vue - функционал билетной системы
 - REST API для управления продажами и бронированием мест
 - Интеграции с API нескольких платёжных систем
@@ -198,5 +211,6 @@ React + Redux, PHP Yii 2 - система проведения онлайн-ви
 
 ### Браузер для кассира / ОрбитальСофт, 2017
 
+https://orbilet.ru/
 Приложение для кассира с использованием термопринтера и двух мониторов (один для покупателя, показ свободных мест в зрительном зале).
 Технологии: Electron, React, Redux, NodeJS.
