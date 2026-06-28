@@ -128,7 +128,7 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 - PHP, Docker Compose - backend
 - Опыт ускорения разработки с нейросетями на GLM 5, Kat Coder 2
 
-### OpenSource Nuxt eShop Demo / 2024
+### OpenSource Nuxt eShop Demo, 2024
 
 - https://github.com/d9k/nuxt-eshop-demo
 - Учебный проект интернет-магазин на Nuxt
@@ -141,14 +141,14 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 - Редактор скриптов разговора с условиями и переводом на оператора
 - Внедрение Storybook, перевод с Vue 2 на Vue 3
 
-### Интеграцией с 1С для системы учёта трудозатрат / WebBee, 2024
+### Интеграция с 1С для Системы Учёта Трудозатрат / WebBee, 2024
 
 - https://web-bee.ru/
 - Backend: Node.JS, TypeScript, Fastify, Sequelize,  Swagger.
 - Frontend: React, TypeScript, SWR, Jotai - фронтенд.
 - Синхронизация данных пользователей, документов и оргструктуры из 1С через 1C OData.
 
-### OpenSource Citation Supabase Demo / 2023
+### OpenSource Citation Supabase Demo, 2023
 
 - https://github.com/d9k/citations-supabase-demo
 - Учебный проект
@@ -203,9 +203,9 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 - https://orbilet.ru/
 - MySQL, JS (JQuery), PHP Yii, Vue - функционал билетной системы
-- REST API для управления продажами и бронированием мест
 - Интеграции с API нескольких платёжных систем
-- Отчёты по продажам
+- Отчёты по продажам с фильтрами
+- Имплементация REST API для партнёров системы для управления продажами и бронированием мест
 - Администрирование серверов: Linux, Bash, cron, Nginx, Docker, Ansible
 
 ### Браузер для кассира / ОрбитальСофт, 2017
