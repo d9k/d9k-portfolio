@@ -122,10 +122,12 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 ### Навигатор доп. образования / Inlearno, 2026
 
+- https://inlearno.ru/
+- https://р00.цопп.рф/new/
 - https://dopportal.ru/
 - Портал покупки билетов на обучающие мероприятия
-- Nuxt, Vue 3, легаси на Vue2
-- PHP, Docker Compose - backend
+- FrontEnd: Nuxt, Vue 3, легаси на Vue2
+- Взаимодействие с бэкендом - модульный монолит на PHP, Docker Compose
 - Опыт ускорения разработки с нейросетями на GLM 5, Kat Coder 2
 
 ### OpenSource Nuxt eShop Demo, 2024
@@ -138,7 +140,7 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 - https://www.devinotele.com/
 - Vue, TypeScript, Pinia, VueFlow
-- Редактор скриптов разговора с условиями и переводом на оператора
+- Редактор скриптов бота техподдержки с условиями и переводом на оператора
 - Внедрение Storybook, перевод с Vue 2 на Vue 3
 
 ### Интеграция с 1С для СУТ "Ресурс" / MosKit, 2024
