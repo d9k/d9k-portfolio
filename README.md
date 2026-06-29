@@ -141,10 +141,11 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 - Редактор скриптов разговора с условиями и переводом на оператора
 - Внедрение Storybook, перевод с Vue 2 на Vue 3
 
-### Интеграция с 1С для Системы Учёта Трудозатрат / WebBee, 2024
+### Интеграция с 1С для СУТ "Ресурс" / MosKit, 2024
 
-- https://web-bee.ru/
-- Backend: Node.JS, TypeScript, Fastify, Sequelize,  Swagger.
+- https://moskit.pro/products/sut-resurs
+- Модуль для Системы Учёта Трудозатрат "Ресурс"
+- Backend: Node.JS, TypeScript, Fastify, Sequelize, Swagger, PostgreSQL.
 - Frontend: React, TypeScript, SWR, Jotai - фронтенд.
 - Синхронизация данных пользователей, документов и оргструктуры из 1С через 1C OData.
 
@@ -160,18 +161,21 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 - https://jetskills.userecho.ru/knowledge-bases/2-baza-znanij
 - Конструктор учебных курсов и аналитический портал
-- React, Redux Toolkit, RTK Query, Node.js, NestJS (BFF)
-- Ant.Design + RTK Query - внутренний административный портал
+- React, Redux Toolkit, RTK Query, Node.js
+- BFF (Backend for frontend): на NestJS, взаимодействие с API микросервисов на PHP, Ruby, Kubernetes
 - Внедрение TypeScript, настройка Webpack, Vite, ESLint
+- + Портал администратора пользователей и лицензий на React, Ant.Design, RTK Query
 
-### Аналитический портал / Uniweb, 2022
+### Аналитический портал для LiveCV / Uniweb, 2022
 
-- https://vk.com/uniweb
-- Superset, Trino (PrestoDB)
-- Аналитический портал с дашбордами и сложными SQL-запросами
+- https://vk.com/livecv_ru
+- Проект: LiveCV - аналог HeadHunter
+- Для проекта разрабатывался аналитический портал с дашбордами, фильтрами и сложными SQL-запросами
+- Технологии: Superset, Trino (PrestoDB)
 
-### Редактор обучающих схем и анимаций / ГиперМетод, 2021
+### SVG-редактор обучающих схем и анимаций / ГиперМетод, 2021
 
+- https://hypermethod.ru/
 - https://www.ispring.ru/eauthor
 - Редактор обучающих SVG-анимаций на Vue.
 
