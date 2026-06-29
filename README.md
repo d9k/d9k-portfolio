@@ -120,11 +120,11 @@ https://hh.ru/resume/47b697d1ff0201c90e0039ed1f6b3163675677
 
 ## Портфолио работ
 
+> _Визуальная версия: https://freelance.ru/portfolio/user/d9k_
+
 ### Навигатор доп. образования / Inlearno, 2026
 
-- https://inlearno.ru/
-- https://р00.цопп.рф/new/
-- https://dopportal.ru/
+- https://inlearno.ru/, https://р00.цопп.рф/new/, https://dopportal.ru/
 - Портал покупки билетов на обучающие мероприятия
 - FrontEnd: Nuxt, Vue 3, легаси на Vue2
 - Взаимодействие с бэкендом - модульный монолит на PHP, Docker Compose
